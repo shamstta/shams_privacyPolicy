@@ -1,53 +1,63 @@
-Friends List Data Deletion Instructions**
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Deletion Instructions - [Friends List]</title>
+</head>
+<body>
+    <h1>Data Deletion Instructions</h1>
+    <p><strong>Effective Date:</strong> [Date]</p>
 
-**Effective Date: [Date]**
+    <h2>Introduction</h2>
+    <p>At [Your App Name], we respect your privacy and are committed to protecting your personal data. This document outlines the steps you can follow to request the deletion of your data from our application. Please read these instructions carefully to ensure that your data deletion request is processed efficiently.</p>
 
-**Introduction**
+    <h2>Step-by-Step Data Deletion Process</h2>
+    <ol>
+        <li>
+            <h3>Login to Your Account</h3>
+            <p>Open the [Your App Name] app on your device.<br>
+            Log in to your account using your Facebook credentials.</p>
+        </li>
+        <li>
+            <h3>Navigate to Account Settings</h3>
+            <p>Once logged in, go to the main menu.<br>
+            Select “Account Settings” or “Privacy Settings” from the options available.</p>
+        </li>
+        <li>
+            <h3>Request Data Deletion</h3>
+            <p>In the Account Settings or Privacy Settings, look for the option titled “Delete My Data” or “Data Deletion Request.”<br>
+            Click on this option to initiate the data deletion process.</p>
+        </li>
+        <li>
+            <h3>Confirm Data Deletion</h3>
+            <p>You may be asked to confirm your request. Read the instructions carefully and confirm that you want to proceed with the deletion of your data.<br>
+            Once confirmed, your data deletion request will be submitted to our system.</p>
+        </li>
+        <li>
+            <h3>Email Confirmation</h3>
+            <p>You will receive an email confirmation that your data deletion request has been received.<br>
+            The email will include details of your request and an estimated time frame for the deletion process to be completed.</p>
+        </li>
+        <li>
+            <h3>Processing Your Request</h3>
+            <p>Our team will review your request and take necessary actions to delete your data from our system.<br>
+            This process may take up to [number of days] days to be completed. You will be notified once the deletion is finalized.</p>
+        </li>
+    </ol>
 
-At [Your App Name], we respect your privacy and are committed to protecting your personal data. This document outlines the steps you can follow to request the deletion of your data from our application. Please read these instructions carefully to ensure that your data deletion request is processed efficiently.
+    <h2>Contact Us</h2>
+    <p>If you encounter any issues or have questions about the data deletion process, please contact us:</p>
+    <ul>
+        <li><strong>Email:</strong> <a href="mailto:your-contact-email@example.com">your-contact-email@example.com</a></li>
+        <li><strong>Phone:</strong> [your-contact-phone-number]</li>
+    </ul>
+    <p>Our support team is available to assist you with any concerns or additional requests you may have.</p>
 
-**Step-by-Step Data Deletion Process**
+    <h2>Important Notes</h2>
+    <p>Once your data is deleted, it cannot be recovered. Please ensure that you have saved any important information before initiating the data deletion process.<br>
+    Deleting your data will remove all personal information, activity logs, and usage data associated with your account from our system.</p>
 
-1. **Login to Your Account**
-   - Open the [Your App Name] app on your device.
-   - Log in to your account using your Facebook credentials.
-
-2. **Navigate to Account Settings**
-   - Once logged in, go to the main menu.
-   - Select “Account Settings” or “Privacy Settings” from the options available.
-
-3. **Request Data Deletion**
-   - In the Account Settings or Privacy Settings, look for the option titled “Delete My Data” or “Data Deletion Request.”
-   - Click on this option to initiate the data deletion process.
-
-4. **Confirm Data Deletion**
-   - You may be asked to confirm your request. Read the instructions carefully and confirm that you want to proceed with the deletion of your data.
-   - Once confirmed, your data deletion request will be submitted to our system.
-
-5. **Email Confirmation**
-   - You will receive an email confirmation that your data deletion request has been received.
-   - The email will include details of your request and an estimated time frame for the deletion process to be completed.
-
-6. **Processing Your Request**
-   - Our team will review your request and take necessary actions to delete your data from our system.
-   - This process may take up to [number of days] days to be completed. You will be notified once the deletion is finalized.
-
-**Contact Us**
-
-If you encounter any issues or have questions about the data deletion process, please contact us:
-
-- **Email:** [your-contact-email@example.com]
-- **Phone:** [your-contact-phone-number]
-
-Our support team is available to assist you with any concerns or additional requests you may have.
-
-**Important Notes**
-
-- Once your data is deleted, it cannot be recovered. Please ensure that you have saved any important information before initiating the data deletion process.
-- Deleting your data will remove all personal information, activity logs, and usage data associated with your account from our system.
-
-**Conclusion**
-
-Your privacy is important to us, and we strive to make the data deletion process as straightforward as possible. If you have any feedback on how we can improve this process, please let us know.
-
-Thank you for using Friends List
+    <h2>Conclusion</h2>
+    <p>Your privacy is important to us, and we strive to make the data deletion process as straightforward as possible. If you have any feedback on how we can improve this process, please let us know.</p>
+    <p>Thank you for using [Your App Name].</p>
+</body>
+</html>
